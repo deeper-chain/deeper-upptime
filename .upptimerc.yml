@@ -4,13 +4,15 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Deeper Network
-    url: https://deeper.network
+    url: https://www.deeper.network
   - name: Deeper Mainnet
     url: https://mainnet.deeper.network/health
   - name: DeeperScan
     url: https://www.deeperscan.io/deeper
   - name: EVM
     url: https://evm.deeper.network/
+  - name: Deeper Chain Explorer
+    url: https://apps.deeper.network
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
