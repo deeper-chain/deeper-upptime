@@ -1,8 +1,8 @@
 [
   {
     "name": "Deeper Network",
-    "url": "https://deeper.network",
-    "icon": "https://icons.duckduckgo.com/ip3/deeper.network.ico",
+    "url": "https://www.deeper.network",
+    "icon": "https://icons.duckduckgo.com/ip3/www.deeper.network.ico",
     "slug": "deeper-network",
     "status": "up",
     "uptime": "100.00%",
@@ -69,6 +69,24 @@
     "timeWeek": 371,
     "timeMonth": 371,
     "timeYear": 371,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Deeper Chain Explorer",
+    "url": "https://apps.deeper.network",
+    "icon": "https://icons.duckduckgo.com/ip3/apps.deeper.network.ico",
+    "slug": "deeper-chain-explorer",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   }
 ]
