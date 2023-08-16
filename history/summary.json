@@ -106,5 +106,41 @@
     "timeMonth": 844,
     "timeYear": 844,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Deeper Miner",
+    "url": "https://miner.deeper.network/login",
+    "icon": "https://icons.duckduckgo.com/ip3/miner.deeper.network.ico",
+    "slug": "deeper-miner",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 973,
+    "timeDay": 973,
+    "timeWeek": 973,
+    "timeMonth": 973,
+    "timeYear": 973,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Deeper Miner API",
+    "url": "https://api-miner.deeper.network",
+    "icon": "https://icons.duckduckgo.com/ip3/api-miner.deeper.network.ico",
+    "slug": "deeper-miner-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 871,
+    "timeDay": 871,
+    "timeWeek": 871,
+    "timeMonth": 871,
+    "timeYear": 871,
+    "dailyMinutesDown": {}
   }
 ]
