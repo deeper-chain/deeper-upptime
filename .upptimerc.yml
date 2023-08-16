@@ -15,6 +15,10 @@ sites:
     url: https://apps.deeper.network
   - name: Devuce BSC
     url: https://device-bsc.deeper.network/login
+  - name: Deeper Miner
+    url: https://miner.deeper.network/login
+  - name: Deeper Miner API
+    url: https://api-miner.deeper.network
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
