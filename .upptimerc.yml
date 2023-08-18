@@ -13,7 +13,7 @@ sites:
     url: https://evm.deeper.network/
   - name: Deeper Chain Explorer
     url: https://apps.deeper.network
-  - name: Devuce BSC
+  - name: Device BSC
     url: https://device-bsc.deeper.network/login
   - name: Deeper Miner
     url: https://miner.deeper.network/login

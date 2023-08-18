@@ -90,10 +90,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Devuce BSC",
+    "name": "Device BSC",
     "url": "https://device-bsc.deeper.network/login",
     "icon": "https://icons.duckduckgo.com/ip3/device-bsc.deeper.network.ico",
-    "slug": "devuce-bsc",
+    "slug": "device-bsc",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
