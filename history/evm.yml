@@ -1,7 +1,7 @@
 url: https://evm.deeper.network/
-status: up
-code: 200
-responseTime: 470
-lastUpdated: 2023-08-30T23:04:56.199Z
+status: down
+code: 502
+responseTime: 239
+lastUpdated: 2023-08-31T18:44:48.549Z
 startTime: Tue Aug 15 2023 16:08:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
