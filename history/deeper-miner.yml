@@ -1,7 +1,7 @@
 url: https://miner.deeper.network/login
-status: up
-code: 200
-responseTime: 737
-lastUpdated: 2023-09-01T23:05:07.659Z
+status: down
+code: 521
+responseTime: 399
+lastUpdated: 2023-09-02T12:53:08.223Z
 startTime: Wed Aug 16 2023 01:08:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
