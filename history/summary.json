@@ -58,19 +58,19 @@
     "url": "https://evm.deeper.network/",
     "icon": "https://icons.duckduckgo.com/ip3/evm.deeper.network.ico",
     "slug": "evm",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 1508,
-    "timeDay": 919,
-    "timeWeek": 1986,
-    "timeMonth": 1508,
-    "timeYear": 1508,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "89.85%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 1484,
+    "timeDay": 890,
+    "timeWeek": 1925,
+    "timeMonth": 1484,
+    "timeYear": 1484,
     "dailyMinutesDown": {
-      "2023-09-05": 130
+      "2023-09-05": 146
     }
   },
   {
