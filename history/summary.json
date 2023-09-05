@@ -58,18 +58,20 @@
     "url": "https://evm.deeper.network/",
     "icon": "https://icons.duckduckgo.com/ip3/evm.deeper.network.ico",
     "slug": "evm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1711,
-    "timeDay": 104,
-    "timeWeek": 2896,
-    "timeMonth": 1711,
-    "timeYear": 1711,
-    "dailyMinutesDown": {}
+    "time": 1717,
+    "timeDay": 996,
+    "timeWeek": 2818,
+    "timeMonth": 1717,
+    "timeYear": 1717,
+    "dailyMinutesDown": {
+      "2023-09-05": 0
+    }
   },
   {
     "name": "Deeper Chain Explorer",
