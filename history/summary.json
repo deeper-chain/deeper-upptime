@@ -59,13 +59,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/evm.deeper.network.ico",
     "slug": "evm",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "91.78%",
+    "uptime": "99.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.53%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 1212,
-    "timeDay": 860,
+    "timeDay": 382,
     "timeWeek": 757,
     "timeMonth": 1212,
     "timeYear": 1212,
@@ -134,9 +134,9 @@
     "url": "https://api-miner.deeper.network",
     "icon": "https://icons.duckduckgo.com/ip3/api-miner.deeper.network.ico",
     "slug": "deeper-miner-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +145,8 @@
     "timeWeek": 769,
     "timeMonth": 1791,
     "timeYear": 1791,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-10": 0
+    }
   }
 ]
