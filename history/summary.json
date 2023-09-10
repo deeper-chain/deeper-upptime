@@ -134,19 +134,19 @@
     "url": "https://api-miner.deeper.network",
     "icon": "https://icons.duckduckgo.com/ip3/api-miner.deeper.network.ico",
     "slug": "deeper-miner-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1791,
-    "timeDay": 746,
-    "timeWeek": 769,
-    "timeMonth": 1791,
-    "timeYear": 1791,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1768,
+    "timeDay": 796,
+    "timeWeek": 778,
+    "timeMonth": 1768,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2023-09-10": 0
+      "2023-09-10": 10
     }
   }
 ]
