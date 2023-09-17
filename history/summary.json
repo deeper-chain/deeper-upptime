@@ -98,10 +98,10 @@
     "url": "https://device-bsc.deeper.network/login",
     "icon": "https://icons.duckduckgo.com/ip3/device-bsc.deeper.network.ico",
     "slug": "device-bsc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 768,
@@ -109,7 +109,9 @@
     "timeWeek": 777,
     "timeMonth": 768,
     "timeYear": 768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 1
+    }
   },
   {
     "name": "Deeper Miner",
