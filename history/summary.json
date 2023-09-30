@@ -40,9 +40,9 @@
     "url": "https://www.deeperscan.io/deeper",
     "icon": "https://icons.duckduckgo.com/ip3/www.deeperscan.io.ico",
     "slug": "deeper-scan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 226,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-30": 0
+    }
   },
   {
     "name": "EVM",
