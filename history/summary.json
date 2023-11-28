@@ -24,18 +24,20 @@
     "url": "https://mainnet.deeper.network/health",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.deeper.network.ico",
     "slug": "deeper-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 181,
-    "timeWeek": 320,
-    "timeMonth": 179,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 206,
+    "timeDay": 696,
+    "timeWeek": 431,
+    "timeMonth": 211,
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "DeeperScan",
@@ -65,12 +67,12 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.76%",
     "time": 675,
     "timeDay": 201,
-    "timeWeek": 428,
+    "timeWeek": 280,
     "timeMonth": 287,
     "timeYear": 675,
     "dailyMinutesDown": {
