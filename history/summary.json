@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/evm.deeper.network.ico",
     "slug": "evm",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 660,
     "timeDay": 106,
     "timeWeek": 354,
@@ -108,9 +108,9 @@
     "url": "https://device-bsc.deeper.network/login",
     "icon": "https://icons.duckduckgo.com/ip3/device-bsc.deeper.network.ico",
     "slug": "device-bsc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -120,6 +120,7 @@
     "timeMonth": 771,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-09-17": 12
     }
   },
