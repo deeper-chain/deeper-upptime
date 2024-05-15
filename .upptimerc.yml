@@ -9,8 +9,6 @@ sites:
     url: https://mainnet.deeper.network/health
   - name: DeeperScan
     url: https://www.deeperscan.io/deeper
-  - name: EVM
-    url: https://evm.deeper.network/
   - name: Deeper Chain Explorer
     url: https://apps.deeper.network
   - name: Device BSC
