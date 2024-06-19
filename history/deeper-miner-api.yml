@@ -1,7 +1,7 @@
 url: https://api-miner.deeper.network
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2024-06-18T23:05:13.916Z
+status: down
+code: 503
+responseTime: 743
+lastUpdated: 2024-06-19T04:39:35.785Z
 startTime: Wed Aug 16 2023 01:08:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
